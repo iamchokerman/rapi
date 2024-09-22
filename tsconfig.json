@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "types": ["node"],
+    "target": "es2021",
+    "lib": ["es2021", "DOM"],
+    "allowImportingTsExtensions": true,
+    "noEmit": true,
+    "moduleResolution": "nodenext",
+    "esModuleInterop": true,
+    "module": "NodeNext"
+  }
+}
